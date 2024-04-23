@@ -26,3 +26,16 @@ Following the analysis, the results are visually presented using SpringBoot and 
 
 </center>
 
+## Other Repositories Recommendation
+### Intelligent Fitness Guidance System Based on Posture Estimation and Segmentation Algorithms.[link](https://github.com/xiangwentao666/FitnessGuidanceSystem)
+This is a fitness project based on MediaPipe and rPPG that integrates skeletal keypoint recognition, heart rate detection, and physical training. A desktop application and a WeChat mini-program are developed for exercising and fitness knowledge quizzes, respectively. Additionally, it achieves interconnectivity and data exchange between the two platforms.
+
+**NOTE**: ONLY a part of my **INDIVIDUAL UNDERGRADUATE THESIS** for university graduation!
+ 
+<center>
+  
+  ![./demo.gif](https://github.com/xiangwentao666/FitnessGuidanceSystem/blob/main/ppt.gif)
+
+</center>
+
+
