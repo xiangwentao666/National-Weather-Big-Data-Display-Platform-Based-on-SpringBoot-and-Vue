@@ -9,7 +9,7 @@ The distributed weather data collection system employs Python for the client-sid
 #### Data Analysis
 After the data collection is finished, data analysis is performed using technologies such as HDFS, Hadoop, and Hive.
 
-ATTENTION: Data compressed in a zip file can be downloaded from [this github repository](https://github.com/xiangwentao666/National-Weather-Big-Data-Display-Platform-Based-on-SpringBoot-and-Vue/blob/main/weather_dataset.zip).
+**ATTENTION**: Data compressed in a zip file named "weather_dataset.zip" can be downloaded from my github repository, and [here is the link](https://github.com/xiangwentao666/National-Weather-Big-Data-Display-Platform-Based-on-SpringBoot-and-Vue/blob/main/weather_dataset.zip).
 
 #### Data Visualization via a Website Application
 Following the analysis, the results are visually presented using SpringBoot and Vue.
