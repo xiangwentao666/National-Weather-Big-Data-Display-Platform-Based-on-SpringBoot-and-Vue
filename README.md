@@ -1,5 +1,6 @@
 # Weather Big Data Display Platform
 ## National Weather Big Data Display Platform Based on SpringBoot and Vue
+## (The code was completed in November 2022 and is coming soon!)
 ### Overview
 This is an open-source project for a nationwide weather big data display platform, based on SpringBoot and Vue, encompassing two systems: a distributed weather data collection system and a weather big data presentation system.
 
