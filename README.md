@@ -1,4 +1,4 @@
-# Weather Big Data Display Platform
+# Weather Big Data Display Platform（[Chinese Version Link / 中文Readme链接](https://github.com/xiangwentao666/National-Weather-Big-Data-Display-Platform-Based-on-SpringBoot-and-Vue/edit/main/README_Chinese.md)）
 ## National Weather Big Data Display Platform Based on SpringBoot and Vue
 ## (The code was completed in November 2022 and it is coming soon!)
 ### Overview
